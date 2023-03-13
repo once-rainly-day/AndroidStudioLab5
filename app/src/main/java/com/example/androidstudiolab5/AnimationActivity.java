@@ -6,7 +6,7 @@ import android.animation.ObjectAnimator;
 import android.os.Bundle;
 import android.widget.Button;
 
-public class animation extends AppCompatActivity {
+public class AnimationActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
